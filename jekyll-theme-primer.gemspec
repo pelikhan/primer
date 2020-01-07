@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = 'jekyll-theme-primer'
-  s.version       = '0.5.4'
-  s.authors       = ['GitHub, Inc.']
-  s.email         = ['open-source@github.com']
+  s.name          = 'jekyll-theme-makecode'
+  s.version       = '0.0.1'
+  s.authors       = ['Microsoft Corporation.']
+  s.email         = ['makecode@microsoft.com']
   s.homepage      = 'https://github.com/pages-themes/jekyll-theme-primer'
   s.summary       = "Primer is a Jekyll theme for GitHub Pages based on GitHub's Primer styles"
 
